@@ -29,17 +29,14 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente trabalho 
 ---
 
 ## 📊 Estatísticas e Atividade
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoSF12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSF12&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoSF12&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSF12&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoSF12&repo=DiegoSF12&theme=tokyonight" />
   <img height="180em" src="https://streak-stats.demolab.com?user=DiegoSF12&theme=tokyonight&hide_border=true" />
 </div>
-
 ---
 
 ## 🌎 Conecte-se comigo
