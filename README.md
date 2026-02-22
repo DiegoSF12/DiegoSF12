@@ -23,9 +23,8 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente trabalho 
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,linux,bash,docker,proxmox,git,c,cs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,linux,bash,docker,git,c,cs" />
 </div>
-
 ---
 
 ## 📊 Estatísticas e Atividade
