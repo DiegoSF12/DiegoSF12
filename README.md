@@ -43,8 +43,6 @@ e bem estruturadas, com base técnica consistente.
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
-
 ![Status do GitHub](https://github-readme-stats.vercel.app/api?username=DiegoSF12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSF12&layout=compact&theme=tokyonight&hide_border=true)
