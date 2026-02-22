@@ -43,16 +43,13 @@ e bem estruturadas, com base técnica consistente.
 
 ## 📊 Estatísticas
 
-<div align="center">
+## 📊 Estatísticas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoSF12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=DiegoSF12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSF12&layout=compact&theme=tokyonight&hide_border=true" />
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSF12&layout=compact&theme=tokyonight&hide_border=true)
 
-<img height="180em" src="https://streak-stats.demolab.com?user=DiegoSF12&theme=tokyonight&hide_border=true" />
-
-</div>
-
+![Streak Stats](https://streak-stats.demolab.com?user=DiegoSF12&theme=tokyonight&hide_border=true)
 ---
 
 ## 🎯 Objetivo
