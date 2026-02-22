@@ -45,9 +45,9 @@ e bem estruturadas, com base técnica consistente.
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSF12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSF12&show_icons=true&theme=tokyonight&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSF12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSF12&theme=tokyonight&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DiegoSF12&theme=tokyonight&hide_border=true&background=0d1117)
 
