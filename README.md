@@ -7,14 +7,29 @@
 
 ---
 
-## 🧠 Sobre mim
+<h1 align="center">Diego Souza</h1>
+<h3 align="center">Backend Developer</h3>
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 💻 Foco em Backend  
-- 🛠 Experiência com Infraestrutura e ambientes Linux  
-- 📚 Sempre estudando para construir uma base forte e consistente  
+<p align="center">
+  Formado em Análise e Desenvolvimento de Sistemas • Foco em Backend e Infraestrutura
+</p>
 
 ---
+
+## 🧠 Sobre mim
+
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
+- 💻 Foco em Desenvolvimento Backend  
+- 🛠 Experiência com Infraestrutura e ambientes Linux  
+- 📚 Buscando aprofundamento em arquitetura, banco de dados e construção de sistemas robustos  
+
+---
+
+## 🎯 Objetivo
+
+Atuar como desenvolvedor backend,  
+construindo aplicações sólidas, escaláveis  
+e bem estruturadas, com base técnica consistente.
 
 ## 🚀 Tecnologias & Ferramentas
 
