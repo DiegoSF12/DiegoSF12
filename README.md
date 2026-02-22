@@ -44,12 +44,12 @@ e bem estruturadas, com base técnica consistente.
 ## 📊 Estatísticas
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSF12&show_icons=true&theme=tokyonight&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSF12&theme=tokyonight&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoSF12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DiegoSF12&theme=tokyonight&hide_border=true&background=0d1117)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSF12&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=DiegoSF12&theme=tokyonight&hide_border=true" />
 
 </div>
 
