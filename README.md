@@ -29,13 +29,15 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente trabalho 
 ---
 
 ## 📊 Estatísticas e Atividade
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoSF12&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSF12&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiegoSF12&show_icons=true&theme=tokyonight&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiegoSF12&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=DiegoSF12&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoSF12&theme=tokyonight&hide_border=true" />
 </div>
 ---
 
